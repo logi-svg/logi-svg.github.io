@@ -19,15 +19,13 @@ body {
   margin: 0;
   padding: 30px;
   color: #333;
-}
 
-body {
-    background-image: url('abstract-bg.jpg');
-        background-repeat: no-repeat;
-    background-size: cover;
-        background-position: center center;
-        background-attachment: fixed;
-}  
+        background-image: url('abstract-bg.jpg'); 
+  background-size: cover;    
+  background-repeat: no-repeat;    
+  background-position: center center;   
+  background-attachment: fixed;
+}
 
 
 /* --------------------
