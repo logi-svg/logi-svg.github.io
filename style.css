@@ -19,27 +19,15 @@ body {
   margin: 0;
   padding: 30px;
   color: #333;
-
-
-        /* バックグラウンドイメージを指定 */
-    background-image: url('canva-E3839BE383AFE382A4E38388-E38399E383BCE382B8E383A5-E38396E383A9E382A6E383B3-E383A2E38380E383B3-E382A2E38396E382B9E38388E383A9E382AFE38388-E382A4E383B3E382B9E382BFE382B0E383A9E383A0-E382B9E38388E383BCE383AA-E8838CE699AF-lBdiBNnXFuQ.jpg');
-
-    /* 以下は、表示を調整するためによく使われるプロパティです */
-    
-    /* 画像の繰り返しを停止 */
-    background-repeat: no-repeat;
-    
-    /* 画像を要素全体に収まるように拡大・縮小 */
-    background-size: cover;
-    
-    /* 画像を中央に配置 */
-    background-position: center;
-    
-    /* スクロールしても背景を固定 */
-    background-attachment: fixed;
-
 }
 
+body {
+    background-image: url('abstract-bg.jpg');
+        background-repeat: no-repeat;
+    background-size: cover;
+        background-position: center center;
+        background-attachment: fixed;
+}  
 
 
 /* --------------------
